@@ -2,6 +2,12 @@
 
 Simple search engine for the UCL domain.
 
+## Authors ##
+
+* Bernardo Branco
+* Christoph Sitter
+* Tanguy Serrat
+
 ## Testing & Querying the engine
 
 Connect to the server:
