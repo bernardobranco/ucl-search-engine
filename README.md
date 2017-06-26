@@ -1,5 +1,7 @@
 # ucl-search-engine
 
+Simple search engine for the UCL domain.
+
 ## Testing & Querying the engine
 
 Connect to the server:
